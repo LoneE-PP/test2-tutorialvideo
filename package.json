@@ -9,7 +9,7 @@
     "serve": "npx backlight@latest serve lf2rCPWviLnijP6PnLmO --open"
   },
   "devDependencies": {
-    "token-transformer": "^.0.0.23",
+    "token-transformer": "^0.0.23",
     "style-dictionary": "^3.7.0"
   },
   "dependencies": {}
