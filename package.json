@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/pp-design.blank-lgp04c01",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve lf2rCPWviLnijP6PnLmO --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
